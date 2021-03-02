@@ -1,5 +1,5 @@
 ### Hi there, I am Toshali Mohapatra👋
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+[![Visits Badge](https://badges.pufler.dev/visits/wildchaser1703/README.md)](https://badges.pufler.dev)
 
 - 🔭 I’m currently working on developing cool websites
 - 🌱 I’m currently learning Web Development(MERN Stack)
