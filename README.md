@@ -35,5 +35,3 @@
 ### 😜Care for a Joke, eh?:
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
 
-### It's going to be ok 😄
- <a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="350"></a>
