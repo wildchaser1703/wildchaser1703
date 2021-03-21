@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=wildchaser1703&color=red)
 
-- 🔭 I’m currently working on developing cool websites
+- 🔭 I’m currently working on a lot of stuff!
 - 🌱 I’m currently learning Web Development(MERN Stack)
 - 👯 I’m looking to collaborate on any Open Source project
 - 🤔 I’m looking for help with Data Structures and Algorithms
