@@ -13,7 +13,7 @@
 
 ![Toshali's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildchaser1703&show_icons=true&&include_all_commits=true&theme=tokyonight&count_private=true?count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildchaser1703&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/wildchaser1703/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildchaser1703&&include_all_commits=true&theme=tokyonight)](https://github.com/wildchaser1703/github-readme-stats)
 
 ### Languages and Tools:
 
