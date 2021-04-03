@@ -34,6 +34,9 @@
 <br>
 <br>
 
+[![Toshali's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wildchaser1703&&theme=tokyonight)](https://github.com/wildchaser1703/github-readme-stats)
+
 ### 😜Care for a Joke, eh?:
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
+
 
