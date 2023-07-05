@@ -2,14 +2,14 @@
 
 ![](https://komarev.com/ghpvc/?username=wildchaser1703&color=red)
 
-- 🔭 I’m currently working on a lot of stuff!
-- 🌱 I’m currently learning Mobile App Dev
+- 🔭 I’m currently enrolled in the Advanced Data Analytics Certification which is offered by Google!
+- 🌱 I’m currently working on improving my Machine Learning Skills
 - 👯 I’m looking to collaborate on any Open Source project
 - 🤔 I’m looking for help with Data Structures and Algorithms
 - 💬 Ask me about anything
 - 📫 How to reach me: toshalimohapatra1@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love painting! and cooking Asian food😄
+- ⚡ Fun fact: I love painting and Sino_Korean cuisine😄
 
 ![Toshali's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildchaser1703&show_icons=true&&include_all_commits=true&theme=tokyonight&count_private=true?count_private=true)
 
