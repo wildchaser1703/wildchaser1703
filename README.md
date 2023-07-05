@@ -9,7 +9,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: toshalimohapatra1@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love painting and Sino_Korean cuisine😄
+- ⚡ Fun fact: I love painting and Sino-Korean cuisine😄
 
 ![Toshali's GitHub stats](https://github-readme-stats.vercel.app/api?username=wildchaser1703&show_icons=true&&include_all_commits=true&theme=tokyonight&count_private=true?count_private=true)
 
