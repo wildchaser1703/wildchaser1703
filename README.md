@@ -2,11 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=wildchaser1703&color=red)
 
-- 🔭 I’m currently enrolled in the Advanced Data Analytics Certification which is offered by Google!
 - 🌱 I’m currently working on improving my Machine Learning Skills
-- 👯 I’m looking to collaborate on any Open Source project
-- 🤔 I’m looking for help with Data Structures and Algorithms
-- 💬 Ask me about anything
 - 📫 How to reach me: toshalimohapatra1@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love painting and Sino-Korean cuisine😄
