@@ -12,7 +12,7 @@
 
 🧠 I'm currently working as a Data Scientist and foraying into MLOps. My recent work includes time series forecasting, interpretable XGBoost pipelines, and NLP-based analytics for strategic decision-making.
 
-⌛ I come from an Electrical Engineering background and pivoted into data science. Over the last 2 years, I’ve worked on problems at the intersection of business intelligence, predictive modeling, and customer behavior.
+⌛ I come from an Electrical Engineering background and pivoted into Data Science. Over the last 2 years, I’ve worked on problems at the intersection of business intelligence, predictive modeling, and customer behavior.
 
 📚 I'm a continuous learner — currently focused on mastering key ML topics through books like *Practical Machine Learning (O’Reilly)*, projects, and courses on Coursera and Stanford Online.
 
