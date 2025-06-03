@@ -28,7 +28,6 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildchaser1703&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wildchaser1703&theme=tokyonight" />
 </p>
 
