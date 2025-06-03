@@ -26,15 +26,9 @@
 
 
 ### GitHub Stats
-<table class="center" style="width:100%;">
-  <tr>
-    <td align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wildchaser1703&count_private=true&show_icons=true&theme=onedark&hide_border=true" />
-    </td>
-    <td align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildchaser1703&langs_count=10&layout=compact&theme=onedark&hide_border=true" />
-</td>
-  </tr>
-</table>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildchaser1703&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wildchaser1703&theme=tokyonight" />
+</p>
 
