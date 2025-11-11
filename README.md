@@ -10,7 +10,7 @@
 
 # Bio
 
-🧠 I'm currently working as a Data Scientist and foraying into MLOps. My recent work includes time series forecasting, interpretable XGBoost pipelines, and NLP-based analytics for strategic decision-making.
+🧠 I'm currently working as an Machine Learning Engineer and foraying into AI Engineering. My recent work includes time series forecasting, interpretable pipelines, and NLP-based analytics for strategic decision-making.
 
 ⌛ I come from an Electrical Engineering background and pivoted into Data Science. Over the last 2 years, I’ve worked on problems at the intersection of business intelligence, predictive modeling, and customer behavior.
 
