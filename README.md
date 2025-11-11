@@ -23,11 +23,3 @@
 # Study Resources
 
 🧠 My curated AI/ML interview prep list (ML theory, system design, Python, SQL, case studies, behavioral) — launching soon on my GitHub!
-
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wildchaser1703&theme=tokyonight" />
-</p>
-
