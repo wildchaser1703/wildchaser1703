@@ -1,25 +1,27 @@
-# About Me
+# Toshali Mohapatra
 
-🔭 I'm deeply passionate about Data Science, Machine Learning, and AI system design — especially in areas that blend structured business impact with advanced models like XGBoost, NLP, and Time Series Forecasting. I am constantly refining my skills across core CS, ML algorithms, and systems thinking.
+**Most of the work lives below the sentence.**
 
-💭 My mission is to build intelligent systems that simplify decision-making at scale, whether it's through forecasting, personalization, or large language models. I aim to solve real-world problems that matter.
+I’m interested in the systems beneath language models: retrieval, tool execution, state, and evaluation. I like understanding what happens between a question arriving and an answer being useful — including what happens when something fails.
 
-👯 I’m always up for collaborating on ML projects, mentoring newcomers in tech, or contributing to open-source data/ML tooling. If you're working on something cool, let's connect!
+My route here started in electrical engineering. Along the way, I’ve worked with forecasting, machine learning, and language-model applications. I also paint, take photographs, and explore procedural art through creative coding.
 
----
+[Website](https://wildchaser1703.github.io/) · [Writing](https://wildchaser1703.github.io/writing/) · [Art](https://wildchaser1703.github.io/art/)
 
-# Bio
+## Selected projects
 
-🧠 I'm currently working as an Machine Learning Engineer and foraying into AI Engineering. My recent work includes time series forecasting, interpretable pipelines, and NLP-based analytics for strategic decision-making.
+| Project | What I’m exploring |
+| --- | --- |
+| [Agentic Insight Analyst](https://wildchaser1703.github.io/projects/agentic-insight-analyst/) | Bounded tool use, working memory, and explicit failure handling in a feedback-analysis agent. |
+| [Documentation RAG Pipeline](https://wildchaser1703.github.io/projects/production-rag-system/) | Persistent retrieval, source-linked answers, and knowing when to abstain. |
+| [Retail Demand Forecasting](https://wildchaser1703.github.io/projects/retail-demand-forecasting-system/) | Past-only features, recursive forecasts, and fair comparisons against simple baselines. |
+| [Depth Estimation & Segmentation](https://wildchaser1703.github.io/projects/depth-estimation/) | A TensorNet-based study of shared representations for paired-image depth and segmentation. |
+| [IntelliQuery](https://wildchaser1703.github.io/projects/intelliquery/) | Image/question feature fusion and evaluation that keeps questions about the same image in one partition. |
 
-⌛ I come from an Electrical Engineering background and pivoted into Data Science. Over the last 2 years, I’ve worked on problems at the intersection of business intelligence, predictive modeling, and customer behavior.
+These are prototypes and research baselines. Each case study links to the reviewed code and explains what has — and hasn’t — been verified.
 
-📚 I'm a continuous learner — currently focused on mastering key ML topics through books like *Practical Machine Learning (O’Reilly)*, projects, and courses on Coursera and Stanford Online.
+## Beyond the code
 
-🎨 Outside of tech, I am a creative at heart! I enjoy painting and photography.
+I write about the decisions behind AI systems, and what happens when theory meets practice. My website also holds paintings, photographs, and **Marginalia**, a procedural artwork built with Blender and Three.js.
 
----
-
-# Study Resources
-
-🧠 My curated AI/ML interview prep list (ML theory, system design, Python, SQL, case studies, behavioral) — launching soon on my GitHub!
+[Browse the projects](https://wildchaser1703.github.io/projects/) · [Read the notes](https://wildchaser1703.github.io/writing/) · [Food photographs](https://wildchaser1703.github.io/food/)
