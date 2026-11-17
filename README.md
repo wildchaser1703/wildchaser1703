@@ -2,9 +2,11 @@
 
 **Most of the work lives below the sentence.**
 
-I’m interested in the systems beneath language models: retrieval, tool execution, state, and evaluation. I like understanding what happens between a question arriving and an answer being useful — including what happens when something fails.
+I’m drawn to the work underneath language models: serving, retrieval, memory, and the backend systems that hold them together.
 
-My route here started in electrical engineering. Along the way, I’ve worked with forecasting, machine learning, and language-model applications. I also paint, take photographs, and explore procedural art through creative coding.
+I want to understand where time and memory go, what breaks under load, and how to tell whether an answer is useful. My current projects explore tool execution, retrieval, evaluation, and failure handling; model serving and inference performance are directions I’m working toward.
+
+I also paint, take photographs, and make procedural art. Writing and creative coding give me other ways to explore the same curiosity.
 
 [Website](https://wildchaser1703.github.io/) · [Writing](https://wildchaser1703.github.io/writing/) · [Art](https://wildchaser1703.github.io/art/)
 
